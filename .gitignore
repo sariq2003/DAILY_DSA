@@ -1,0 +1,8 @@
+# Eclipse & Java project files to ignore
+.classpath
+.project
+.settings/
+.metadata/
+
+# Build output (if any in future)
+bin/
